@@ -1,2 +1,10 @@
+#!/bin/bash
 
-echo"First commit repo"
+
+
+#some comment
+#more comment
+
+echo "Files cameouflaging"
+date
+
